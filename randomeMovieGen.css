@@ -1,0 +1,53 @@
+.root {
+    -fx-background-color: #121212;
+    -fx-font-size: 12px;
+}
+
+#top {
+    -fx-background-color: #272727;
+    -fx-background-radius: 8px;
+}
+
+.button {
+    -fx-background-color: #303030;
+    -fx-text-fill: rgba(255, 255, 255 .8);
+    -fx-background-radius: 8px;
+}
+
+.list-view {
+    -fx-background-color: #272727;
+    -fx-background-radius: 8px;
+}
+
+.list-cell:filled:selected {
+    -fx-background-color: #ff2d54;
+    -fx-text-fill: #FFFFFF;
+}
+
+.list-cell:even {
+    -fx-background-color: #272727;
+    -fx-text-fill: rgba(255, 255, 255 .8);
+}
+
+.list-cell:odd {
+    -fx-background-color: #303030;
+    -fx-text-fill: rgba(255, 255, 255 .8);
+}
+
+.list-cell:filled:hover {
+    -fx-background-color: rgba(255, 45, 85, .5);
+    -fx-text-fill: rgba(255, 255, 255 .8);
+}
+
+.text-field {
+    -fx-background-color: #303030;
+    -fx-text-fill: rgba(255, 255, 255 .8);
+    -fx-background-radius: 8px;
+}
+
+.label {
+    -fx-text-fill: rgba(255, 255, 255 .8);
+    -fx-background-color: #272727;
+    -fx-font-size: 14px;
+    -fx-background-radius: 8px;
+}

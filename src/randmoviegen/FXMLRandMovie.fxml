@@ -1,0 +1,46 @@
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane fx:controller="randmoviegen.randMovieController"
+            xmlns:fx="http://javafx.com/fxml" BorderPane.alignment="center" minHeight="450" minWidth="350"
+            prefHeight="550" prefWidth="350">
+    <fx:define>
+        <Insets fx:id="margins" top="10" right="10" left="10" bottom="5"/>
+    </fx:define>
+    <top>
+        <VBox fx:id="top" alignment="TOP_CENTER" BorderPane.margin="$margins" prefWidth="170">
+            <children>
+                <Label fx:id="welcomeLbl" text="Welcome" alignment="CENTER"/>
+                <Label fx:id="optionLbl" text="Add a movie:" alignment="CENTER"/>
+                <TextField fx:id="userIn" prefHeight="12" maxWidth="150" alignment="CENTER"/>
+            </children>
+        </VBox>
+    </top>
+    <center>
+        <GridPane alignment="CENTER" vgap="7" BorderPane.margin="$margins">
+            <columnConstraints>
+                <ColumnConstraints percentWidth="50.0"/>
+                <ColumnConstraints percentWidth="50.0"/>
+            </columnConstraints>
+            <children>
+                <Button fx:id="enter" text="Add" defaultButton="true" GridPane.rowIndex="0" GridPane.columnIndex="0"
+                        GridPane.halignment="CENTER" prefWidth="85" prefHeight="210"/>
+                <Button fx:id="remove" text="Remove" GridPane.rowIndex="0" GridPane.columnIndex="1"
+                        GridPane.halignment="CENTER" prefWidth="85" prefHeight="210"/>
+                <ListView fx:id="displayUserIn" GridPane.rowIndex="1" GridPane.columnSpan="2"
+                          GridPane.halignment="CENTER"/>
+                <Button fx:id="random" text="Randomize!" GridPane.rowIndex="2" GridPane.columnSpan="2"
+                        GridPane.halignment="CENTER" prefWidth="85" prefHeight="210"/>
+            </children>
+        </GridPane>
+    </center>
+    <bottom>
+        <Label text="Tonight's choice:" alignment="CENTER" fx:id="randChoice" prefWidth="Infinity"
+               BorderPane.margin="$margins">
+            <padding>
+                <Insets top="5" bottom="5"/>
+            </padding>
+        </Label>
+    </bottom>
+</BorderPane>
