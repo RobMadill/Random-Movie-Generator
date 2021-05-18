@@ -13,14 +13,14 @@ After Launch:<br>
 Adding Movie:<br>
 ![Add-Movie](https://user-images.githubusercontent.com/19481324/118365975-d3d55100-b56c-11eb-8c6c-776bda13c4b7.PNG)
 
-Added All Choices:<br>
+Added All Movies:<br>
 ![Add-All-Movies](https://user-images.githubusercontent.com/19481324/118365987-e059a980-b56c-11eb-82fd-7363d134331f.PNG)
 
-Highlight Choice for Removal:<br>
+Highlight Movie for Removal:<br>
 ![Highlight-Remove](https://user-images.githubusercontent.com/19481324/118366005-f23b4c80-b56c-11eb-9187-1be18d94e710.PNG)
 
-Choice Removed:<br>
+Movie Removed:<br>
 ![Removed](https://user-images.githubusercontent.com/19481324/118366013-fb2c1e00-b56c-11eb-8c93-ab6f4b673ab1.PNG)
 
-Tonight's Choice:<br>
+Tonight's Movie:<br>
 ![Tonights-Choice](https://user-images.githubusercontent.com/19481324/118366027-0aab6700-b56d-11eb-9321-160e37b9a70e.PNG)
