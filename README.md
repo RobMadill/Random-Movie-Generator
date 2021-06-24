@@ -2,7 +2,7 @@
 This is v1.0 of my Random-Movie-Generator app written with JavaFX.  
 
 <h2>Description:</h2>
-  Do you have a list of movies you want to watch but can’t decide which movie you want to watch tonight? Enter all your choices into this app and it will randomly pick one for you! 
+Do you have a list of movies you want to watch but can’t decide on one? Enter all your choices into this app and it will randomly pick one for you!
 
 <h2>How to use:</h2>
   Type your option and click the <b>Add</b> button (or hit enter). If you add an option that you decide you don’t want to watch, select that option and hit the <b>Remove</b> button. Once all you add all of your options, hit the <b>Randomize</b> button and your movie will be displayed for you under the list of movies.<br><br>
