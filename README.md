@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/RobMadill/Random-Movie-Generator">
-    <img src="https://user-images.githubusercontent.com/19481324/158642612-e676c8ff-6e5f-40b7-9539-f7f95d419034.png" alt="Logo" width="80" height="80">
+    <img src="RMG-ICON.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Random Movie Generator</h3>
