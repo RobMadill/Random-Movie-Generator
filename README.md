@@ -64,8 +64,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Just-Launched](https://user-images.githubusercontent.com/19481324/118365961-c3bd7180-b56c-11eb-8958-aed101eb621b.PNG)
-
 While taking Object Oriented Programming 2 at Sheridan College, the last month was dedicated to teaching us JavaFX. We learned the importance of MVC design pattern in relation to a desktop app. After finishing the semester, I decided to create this app that I've had as an idea since I started taking Software Development & Network Engineering
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -83,6 +81,9 @@ While taking Object Oriented Programming 2 at Sheridan College, the last month w
 
 ### How to use:
 Type your option and click the <b>Add</b> button (or hit enter). If you add an option that you decide you don’t want to watch, select that option and hit the <b>Remove</b> button. Once you have added all of your options, hit the <b>Randomize</b> button and your movie choice will be displayed for you under the randomize button
+
+#### After launch:
+![Just-Launched](https://user-images.githubusercontent.com/19481324/118365961-c3bd7180-b56c-11eb-8958-aed101eb621b.PNG)
 
 #### Adding movie:
 ![Add-Movie](https://user-images.githubusercontent.com/19481324/118365975-d3d55100-b56c-11eb-8c6c-776bda13c4b7.PNG)
